@@ -1,3 +1,13 @@
+- title: "Better Language Models Exhibit Higher Visual Alignment"
+  authors: "Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano"
+  venue: "Transactions on Machine Learning Research (TMLR), "
+  year: 2026
+  link: 
+    display: ABS
+    url: https://arxiv.org/abs/2410.07173
+  ref: Ruthardt2026
+  pubtype: journal
+
 - title: "OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory"
   authors: "Zhaochong An, Menglin Jia, Haonan Qiu, Zijian Zhou, Xiaoke Huang, Zhiheng Liu, Weiming Ren, Kumara Kahatapitiya, Ding Liu, Sen He, Chenyang Zhang, Tao Xiang, Fanny Yang, **Serge Belongie**, Tian Xie"
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
