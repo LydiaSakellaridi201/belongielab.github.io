@@ -1,3 +1,34 @@
+- address: Malmö
+  author: "Lucia Gordon, Serge Belongie, Christian Igel, Nico Lang"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2602.06285
+  pub_type: conference
+  ref: Gordon2026a
+  title: "MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training"
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2026'
+- address: Malmö
+  author: "Zhaochong An, Orest Kupyn, Théo Uscidda, Andrea Colaco, Karan Ahuja, Serge Belongie, Mar Gonzalez-Franco, Marta Tintore Gazulla"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2603.26599
+  pub_type: conference
+  ref: An2026a
+  title: "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward"
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2026'
+- address: Malmö
+  author: "Dan Wang, Xinrui Cui, Serge Belongie, Ravi Ramamoorthi"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2602.18886
+  pub_type: conference
+  ref: Wang2026a
+  title: "PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation"
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2026'
+
 - title: "Better Language Models Exhibit Higher Visual Alignment"
   author: "Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano"
   venue: "Transactions on Machine Learning Research (TMLR), "
